@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harsh14122003bwn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/167wh2OdVnenuFjusGAfnqNvLQmZk1uUT/view?usp=sharing](https://drive.google.com/file/d/167wh2OdVnenuFjusGAfnqNvLQmZk1uUT/view?usp=sharing)
+- 📄 Know about my experiences [Check Portfolio](https://harsh16portfolio.netlify.app/)
 
 <br/><br/><br/><br/><br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshtanwar143" alt="harshtanwar143" /></a> </p>
